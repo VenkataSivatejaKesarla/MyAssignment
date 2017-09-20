@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 5757999,
+              "duration": 2536663,
               "status": "passed"
             },
             "match": {
@@ -21,7 +21,7 @@
         "after": [
           {
             "result": {
-              "duration": 226214,
+              "duration": 254864,
               "status": "passed"
             },
             "match": {
@@ -37,7 +37,7 @@
               "\u003cspan style\u003d\u0027float: left;\u0027\u003eDispaly of elementBy.xpath: //input[@placeholder\u003d\u0027Type or Select Location\u0027]\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e"
             ],
             "result": {
-              "duration": 8696338144,
+              "duration": 36329748279,
               "status": "passed"
             },
             "line": 5,
@@ -55,7 +55,7 @@
           },
           {
             "result": {
-              "duration": 4453227430,
+              "duration": 4384336574,
               "status": "passed"
             },
             "line": 6,
@@ -80,7 +80,7 @@
               "\u003cspan style\u003d\u0027float: left;\u0027\u003eDispaly of elementBy.xpath: //ul[@class\u003d\u0027listing-items\u0027]\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e"
             ],
             "result": {
-              "duration": 28468146485,
+              "duration": 13898797736,
               "status": "passed"
             },
             "line": 7,
@@ -116,7 +116,7 @@
               "\u003cspan style\u003d\u0027float: left;\u0027\u003ePage No:8Verify all the search results are with in :3000Sqft\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e"
             ],
             "result": {
-              "duration": 69002014124,
+              "duration": 62116716022,
               "status": "passed"
             },
             "line": 8,
@@ -132,7 +132,7 @@
         "before": [
           {
             "result": {
-              "duration": 140262,
+              "duration": 143682,
               "status": "passed"
             },
             "match": {
@@ -147,7 +147,7 @@
         "after": [
           {
             "result": {
-              "duration": 137696,
+              "duration": 153517,
               "status": "passed"
             },
             "match": {
@@ -163,7 +163,7 @@
               "\u003cspan style\u003d\u0027float: left;\u0027\u003eDispaly of elementBy.xpath: //input[@placeholder\u003d\u0027Type or Select Location\u0027]\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e"
             ],
             "result": {
-              "duration": 7440618845,
+              "duration": 8095401549,
               "status": "passed"
             },
             "line": 11,
@@ -181,7 +181,7 @@
           },
           {
             "result": {
-              "duration": 3079128120,
+              "duration": 3000134701,
               "status": "passed"
             },
             "line": 12,
@@ -199,7 +199,7 @@
           },
           {
             "result": {
-              "duration": 5809358705,
+              "duration": 5750863051,
               "status": "passed"
             },
             "line": 13,
@@ -220,7 +220,7 @@
               "\u003cspan style\u003d\u0027float: left;\u0027\u003eDispaly of elementBy.xpath: //ul[@class\u003d\u0027listing-items\u0027]\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e"
             ],
             "result": {
-              "duration": 16006239079,
+              "duration": 29089209131,
               "status": "passed"
             },
             "line": 14,
@@ -232,18 +232,23 @@
           },
           {
             "output": [
-              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg2-cdn.pgimgs.com/listing/20866777/UPHO.94035849.V800/Riverbank-at-Fernvale-Seletar-Yio-Chu-Kang-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
-              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg1-cdn.pgimgs.com/listing/20866777/UPHO.94035858.V800/Riverbank-at-Fernvale-Seletar-Yio-Chu-Kang-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
-              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg2-cdn.pgimgs.com/listing/20866777/UPHO.94035861.V800/Riverbank-at-Fernvale-Seletar-Yio-Chu-Kang-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
-              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg2-cdn.pgimgs.com/property/21835/PPHO.44183999.V800/Riverbank-at-Fernvale-Seletar-Yio-Chu-Kang-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
-              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg1-cdn.pgimgs.com/property/21835/PPHO.44184000.V800/Riverbank-at-Fernvale-Seletar-Yio-Chu-Kang-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
-              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg2-cdn.pgimgs.com/property/21835/PPHO.44184001.V800/Riverbank-at-Fernvale-Seletar-Yio-Chu-Kang-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
-              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg2-cdn.pgimgs.com/property/21835/PPHO.44184007.V800/Riverbank-at-Fernvale-Seletar-Yio-Chu-Kang-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
-              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg1-cdn.pgimgs.com/property/21835/PPHO.44184008.V800/Riverbank-at-Fernvale-Seletar-Yio-Chu-Kang-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
-              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg2-cdn.pgimgs.com/property/21835/PPHO.44184009.V800/Riverbank-at-Fernvale-Seletar-Yio-Chu-Kang-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e"
+              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg1-cdn.pgimgs.com/listing/20785848/UPHO.91914668.V800/122-Bedok-Reservoir-Road-Bedok-Upper-East-Coast-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
+              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg1-cdn.pgimgs.com/listing/20785848/UPHO.91914664.V800/122-Bedok-Reservoir-Road-Bedok-Upper-East-Coast-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
+              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg1-cdn.pgimgs.com/listing/20785848/UPHO.91914666.V800/122-Bedok-Reservoir-Road-Bedok-Upper-East-Coast-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
+              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg1-cdn.pgimgs.com/listing/20785848/UPHO.91914670.V800/122-Bedok-Reservoir-Road-Bedok-Upper-East-Coast-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
+              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg2-cdn.pgimgs.com/listing/20785848/UPHO.91914671.V800/122-Bedok-Reservoir-Road-Bedok-Upper-East-Coast-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
+              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg2-cdn.pgimgs.com/listing/20785848/UPHO.91914675.V800/122-Bedok-Reservoir-Road-Bedok-Upper-East-Coast-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
+              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg2-cdn.pgimgs.com/listing/20785848/UPHO.91914677.V800/122-Bedok-Reservoir-Road-Bedok-Upper-East-Coast-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
+              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg2-cdn.pgimgs.com/listing/20785848/UPHO.91914679.V800/122-Bedok-Reservoir-Road-Bedok-Upper-East-Coast-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
+              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg1-cdn.pgimgs.com/listing/20785848/UPHO.91914680.V800/122-Bedok-Reservoir-Road-Bedok-Upper-East-Coast-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
+              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg2-cdn.pgimgs.com/property/3541/PPHO.3194795.V800/122-Bedok-Reservoir-Road-Bedok-Upper-East-Coast-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
+              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg2-cdn.pgimgs.com/property/3541/PPHO.3194797.V800/122-Bedok-Reservoir-Road-Bedok-Upper-East-Coast-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
+              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg2-cdn.pgimgs.com/property/3541/PPHO.3194799.V800/122-Bedok-Reservoir-Road-Bedok-Upper-East-Coast-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
+              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg2-cdn.pgimgs.com/listing/20785848/UFLOO.91914697.V550.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e",
+              "\u003cspan style\u003d\u0027float: left;\u0027\u003eImage validation is successful forhttps://sg1-cdn.pgimgs.com/listing/20785848/UPHO.91914674.V800/122-Bedok-Reservoir-Road-Bedok-Upper-East-Coast-Singapore.jpg\u003c/span\u003e\u003cspan style\u003d\u0027float: right;color:green;font-weight:bold;\u0027\u003ePass\u003c/span\u003e\u003cbr\u003e"
             ],
             "result": {
-              "duration": 105885619157,
+              "duration": 62130551784,
               "status": "passed"
             },
             "line": 15,

@@ -47,6 +47,8 @@ public class HomePage {
 		selenium.waitForObject(HomePage.txt_TypeLocation);
 
 		selenium.verifyObjectExists(HomePage.txt_TypeLocation);
+		
+		
 
 	}
 
